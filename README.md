@@ -27,3 +27,14 @@ A weekly grocery list for households who cook the same things most weeks. Add yo
   <img src="images/weakly-1.png" width="250" alt="Weakly Shop plan mode" />
 </p>
 React · Vite · Tailwind · Supabase (Postgres, Realtime, OTP auth) · PWA · Vercel
+
+
+---
+
+## Killer Sudoku Cageulator
+
+A calculator for killer sudoku players. Pick a cage size, mark digits you know are in or out, and it shows every possible combination for each cage total, with the ones that still fit highlighted.
+
+<img src="images/sudoku-1.png" width="100%" alt="Killer Sudoku Cageulator" />
+
+[stack]
