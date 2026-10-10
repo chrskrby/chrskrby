@@ -19,7 +19,7 @@ React · Vite · Tailwind · Supabase (Postgres, Realtime, OTP auth) · Vercel
  
 ## Weakly Shop
  
-A weekly grocery list for households who cook the same things most weeks. Add your regular recipes and the list builds itself, sorted by store aisle. It only asks about the items you might already have at home. In the store, tap an item to tick it off; everyone on the list sees it update live.
+A weekly grocery list for households who cook the same things most weeks. Add a recipe and it puts what you need on the list, checks with you about pantry staples you might already have, and skips anything that’s already there. In the store, the list is sorted by aisle, and ticking an item off updates for everyone.
  
 **[weaklyshop.app](https://weaklyshop.app)** · sign-in required
  
