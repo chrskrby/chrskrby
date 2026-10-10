@@ -35,6 +35,8 @@ React · Vite · Tailwind · Supabase (Postgres, Realtime, OTP auth) · PWA · V
 
 A calculator for killer sudoku players. Pick a cage size, mark digits you know are in or out, and it shows every possible combination for each cage total, with the ones that still fit highlighted.
 
-<img src="images/sudoku-1.png" width="100%" alt="Killer Sudoku Cageulator" />
+**[Try it](https://2pack.app/labs/killersudoku/index.html)**
 
-[stack]
+<img src="images/sudoku-1.png" width="350" alt="Killer Sudoku Cageulator" />
+
+A single HTML file, built with Claude Code.
