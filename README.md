@@ -40,4 +40,5 @@ A calculator for killer sudoku players. Pick a cage size, mark digits you know a
 <p>
 <img src="images/sudoku-0.png" width="139" alt="Killer Sudoku Cageulator screenshot" />
 </p>
+<p></p>
 A single HTML file, built with Claude Code.
