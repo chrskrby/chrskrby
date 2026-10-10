@@ -24,7 +24,7 @@ A weekly grocery list for households who cook the same things most weeks. Add yo
 **[weaklyshop.app](https://weaklyshop.app)** · sign-in required
  
 <p>
-  <img src="images/weakly-1.png" width="116" alt="Weakly Shop plan mode" />
+  <img src="images/weakly-1.png" width="500" alt="Weakly Shop plan mode" />
 </p>
 React · Vite · Tailwind · Supabase (Postgres, Realtime, OTP auth) · PWA · Vercel
 
@@ -37,6 +37,6 @@ A calculator for killer sudoku players. Pick a cage size, mark digits you know a
 
 **[Try it](https://2pack.app/labs/killersudoku/index.html)**
 
-<img src="images/sudoku-0.png" width="500" alt="Killer Sudoku Cageulator" />
+<img src="images/sudoku-0.png" width="116" alt="Killer Sudoku Cageulator" />
 
 A single HTML file, built with Claude Code.
