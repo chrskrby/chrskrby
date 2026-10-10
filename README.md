@@ -11,7 +11,7 @@ A shared packing list for two people going on a hike together. Each person packs
 **[2pack.app](https://2pack.app)** · sign-in required
  
 <p>
-  <img src="images/2pack-1.png" width="350" alt="2Pack pack view" />
+  <img src="images/2pack-1.png" width="500" alt="2Pack pack view" />
 </p>
 React · Vite · Tailwind · Supabase (Postgres, Realtime, OTP auth) · Vercel
  
@@ -24,7 +24,7 @@ A weekly grocery list for households who cook the same things most weeks. Add yo
 **[weaklyshop.app](https://weaklyshop.app)** · sign-in required
  
 <p>
-  <img src="images/weakly-1.png" width="350" alt="Weakly Shop plan mode" />
+  <img src="images/weakly-1.png" width="500" alt="Weakly Shop plan mode" />
 </p>
 React · Vite · Tailwind · Supabase (Postgres, Realtime, OTP auth) · PWA · Vercel
 
@@ -37,6 +37,6 @@ A calculator for killer sudoku players. Pick a cage size, mark digits you know a
 
 **[Try it](https://2pack.app/labs/killersudoku/index.html)**
 
-<img src="images/sudoku-1.png" width="350" alt="Killer Sudoku Cageulator" />
+<img src="images/sudoku-1.png" width="500" alt="Killer Sudoku Cageulator" />
 
 A single HTML file, built with Claude Code.
