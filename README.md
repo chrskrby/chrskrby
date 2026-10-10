@@ -37,6 +37,7 @@ A calculator for killer sudoku players. Pick a cage size, mark digits you know a
 
 **[Try it](https://2pack.app/labs/killersudoku/index.html)**
 
+<p>
 <img src="images/sudoku-0.png" width="139" alt="Killer Sudoku Cageulator" />
-
+</p>
 A single HTML file, built with Claude Code.
