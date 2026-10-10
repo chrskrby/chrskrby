@@ -1,6 +1,6 @@
 # Chris Kirby
  
-Product designer in Melbourne. I lead design for Medibank's virtual GP service, and in my own time I build small apps end to end with React, Supabase and Claude Code. The code is private; here's what the apps are.
+Product designer in Melbourne. I lead design for Medibank's virtual GP service, and in my own time I build small apps end to end with React, Supabase and Claude Code.
  
 ---
  
@@ -11,7 +11,7 @@ A shared packing list for two people going on a hike together. Each person packs
 **[2pack.app](https://2pack.app)** · sign-in required
  
 <p>
-  <img src="images/2pack-1.png" width="600" alt="2Pack pack view" />
+  <img src="images/2pack-1.png" width="600" alt="2Pack screenshots" />
 </p>
 React · Vite · Tailwind · Supabase (Postgres, Realtime, OTP auth) · Vercel
  
@@ -24,7 +24,7 @@ A weekly grocery list for households who cook the same things most weeks. Add a 
 **[weaklyshop.app](https://weaklyshop.app)** · sign-in required
  
 <p>
-  <img src="images/weakly-1.png" width="600" alt="Weakly Shop plan mode" />
+  <img src="images/weakly-1.png" width="600" alt="Weakly Shop screenshots" />
 </p>
 React · Vite · Tailwind · Supabase (Postgres, Realtime, OTP auth) · PWA · Vercel
 
@@ -38,6 +38,6 @@ A calculator for killer sudoku players. Pick a cage size, mark digits you know a
 **[Try it](https://2pack.app/labs/killersudoku/index.html)**
 
 <p>
-<img src="images/sudoku-0.png" width="139" alt="Killer Sudoku Cageulator" />
+<img src="images/sudoku-0.png" width="139" alt="Killer Sudoku Cageulator screenshot" />
 </p>
 A single HTML file, built with Claude Code.
