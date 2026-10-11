@@ -6,7 +6,7 @@ Product designer in Melbourne. I lead design for Medibank's virtual GP service, 
  
 ## 2Pack
  
-A shared packing list for two people going on a hike together. Each person packs their own gear, sees their partner's pack in real time, and can move items between packs as plans change. Optional weight tracking shows base, consumable and worn weight for each person.
+A shared packing list for two people going on a hike together. Each person packs their own gear, sees their partner's pack in real time, and can move items between packs as plans change. Weight tracking shows how much each person is carrying, including how shared gear is distributed between partners.
  
 **[2pack.app](https://2pack.app)** · sign-in required
  
